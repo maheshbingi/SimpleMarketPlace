@@ -22,10 +22,10 @@ Simple Market Place:
 * After checking out he needs to pay for the items he purchased using valid credit card.
 
 "Simple Market Place Server"
-===========
+-----------
 It is a simple web service implemented using JAX-WS and Apache Axis which performs basic market place functionalities.
 
 "Simple Market Place Client" 
-===========
+-----------
 It is a client developed using JSP to invoke given web service functionalities.
 
