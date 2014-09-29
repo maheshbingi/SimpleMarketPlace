@@ -7,7 +7,7 @@ Simple Market Place:
 * Functionality such as signup, signin, signout
 * User can add new catalog and sell products
 * User can add & remove items from cart
-* Performing CURD operation.
+* Performing CRUD operation.
 * Validations.
 
 Simple Market Place:
